@@ -1,0 +1,8 @@
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\bin\Debug\TesteNautec_Rubens.exe.config
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\bin\Debug\TesteNautec_Rubens.exe
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\bin\Debug\TesteNautec_Rubens.pdb
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\obj\Debug\TesteNautec_Rubens.csprojAssemblyReference.cache
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\obj\Debug\TesteNautec_Rubens.csproj.CopyComplete
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\obj\Debug\TesteNautec_Rubens.exe
+C:\Users\Rubens\source\repos\TesteNautec_Rubens\TesteNautec_Rubens\obj\Debug\TesteNautec_Rubens.pdb
